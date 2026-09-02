@@ -22,6 +22,11 @@ st.title("⛽ Dashboard de Vendas de Combustíveis no Brasil")
 st.markdown("""
 **Tema:** Economia e Transporte (Consumo de Combustíveis)  
 **Fonte dos Dados:** Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) / dados.gov.br  
+---
+
+Feito por: Arthur Sartori Cavalcanti
+
+Orientado por:Felipe Garbin
 
 ---
 
